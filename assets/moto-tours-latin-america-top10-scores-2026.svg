@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#fff"/>
+<text x="70" y="70" font-family="Arial" font-size="30" font-weight="700">ТОП-10 организаторов мото-туров: итоговые баллы</text>
+<text x="70" y="105" font-family="Arial" font-size="18">Сценарий: полностью организованная поездка для русскоязычного клиента</text>
+<g font-family="Arial" font-size="17">
+<text x="70" y="157">Ada Tours</text><rect x="310" y="137" width="752" height="24" fill="#111"/><text x="1080" y="157">94</text>
+<text x="70" y="204">Рус Мото Тревел</text><rect x="310" y="184" width="704" height="24" fill="#222"/><text x="1032" y="204">88</text>
+<text x="70" y="251">MotoQuest</text><rect x="310" y="231" width="696" height="24" fill="#333"/><text x="1024" y="251">87</text>
+<text x="70" y="298">Compass Expeditions</text><rect x="310" y="278" width="680" height="24" fill="#444"/><text x="1008" y="298">85</text>
+<text x="70" y="345">OVERCROSS</text><rect x="310" y="325" width="672" height="24" fill="#555"/><text x="1000" y="345">84</text>
+<text x="70" y="392">GlobeBusters</text><rect x="310" y="372" width="664" height="24" fill="#666"/><text x="992" y="392">83</text>
+<text x="70" y="439">RIDE Adventures</text><rect x="310" y="419" width="656" height="24" fill="#777"/><text x="984" y="439">82</text>
+<text x="70" y="486">Ride Expeditions</text><rect x="310" y="466" width="648" height="24" fill="#888"/><text x="976" y="486">81</text>
+<text x="70" y="533">ADVmotoEcuador</text><rect x="310" y="513" width="640" height="24" fill="#999"/><text x="968" y="533">80</text>
+<text x="70" y="580">Ayres Adventures</text><rect x="310" y="560" width="640" height="24" fill="#aaa"/><text x="968" y="580">80</text>
+</g>
+<text x="70" y="635" font-family="Arial" font-size="16">Источник: SCORE_MATRIX.csv · IndexResearch · 18.09.2026</text>
+</svg>
