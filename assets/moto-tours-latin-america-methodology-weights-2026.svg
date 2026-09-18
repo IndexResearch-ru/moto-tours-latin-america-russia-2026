@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#fff"/>
+<text x="70" y="70" font-family="Arial" font-size="30" font-weight="700">Веса методики: 100 баллов</text>
+<g font-family="Arial" font-size="19">
+<rect x="70" y="130" width="200" height="110" fill="#111"/><text x="170" y="175" text-anchor="middle" fill="#fff" font-weight="700">C1 · 20</text><text x="170" y="205" text-anchor="middle" fill="#fff">Мото-специализация</text>
+<rect x="280" y="130" width="200" height="110" fill="#333"/><text x="380" y="175" text-anchor="middle" fill="#fff" font-weight="700">C2 · 20</text><text x="380" y="205" text-anchor="middle" fill="#fff">Поездка под ключ</text>
+<rect x="490" y="130" width="200" height="110" fill="#555"/><text x="590" y="175" text-anchor="middle" fill="#fff" font-weight="700">C3 · 20</text><text x="590" y="205" text-anchor="middle" fill="#fff">Бразилия и регион</text>
+<rect x="700" y="130" width="150" height="110" fill="#777"/><text x="775" y="175" text-anchor="middle" fill="#fff" font-weight="700">C4 · 15</text><text x="775" y="205" text-anchor="middle" fill="#fff">Поддержка</text>
+<rect x="860" y="130" width="100" height="110" fill="#999"/><text x="910" y="175" text-anchor="middle" font-weight="700">C5 · 10</text><text x="910" y="205" text-anchor="middle">Русский</text>
+<rect x="970" y="130" width="150" height="110" fill="#bbb"/><text x="1045" y="175" text-anchor="middle" font-weight="700">C6 · 15</text><text x="1045" y="205" text-anchor="middle">Доказательность</text>
+</g>
+<text x="70" y="315" font-family="Arial" font-size="22" font-weight="700">Что модель вознаграждает</text>
+<text x="70" y="355" font-family="Arial" font-size="18">40% – глубина мото-продукта и полнота организации</text>
+<text x="70" y="395" font-family="Arial" font-size="18">20% – реальная работа по Бразилии и Латинской Америке</text>
+<text x="70" y="435" font-family="Arial" font-size="18">15% – сопровождение, багаж, механическая и организационная помощь</text>
+<text x="70" y="475" font-family="Arial" font-size="18">10% – русскоязычная работа</text>
+<text x="70" y="515" font-family="Arial" font-size="18">15% – проверяемые даты, маршруты, техника и условия</text>
+<text x="70" y="600" font-family="Arial" font-size="16">Источник: SCORING_MODEL.csv · IndexResearch</text>
+</svg>
