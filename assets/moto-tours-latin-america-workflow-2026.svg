@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="675" viewBox="0 0 1200 675">
+<rect width="1200" height="675" fill="#fff"/>
+<text x="70" y="75" font-family="Arial" font-size="30" font-weight="700">Сценарий организованного мото-тура</text>
+<g font-family="Arial" font-size="18">
+<rect x="80" y="170" width="180" height="105" rx="18" fill="#eee" stroke="#111"/><text x="170" y="210" text-anchor="middle" font-weight="700">Мотоцикл</text><text x="170" y="240" text-anchor="middle">модель · страховка</text>
+<path d="M275 222 H355" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="365" y="170" width="180" height="105" rx="18" fill="#eee" stroke="#111"/><text x="455" y="210" text-anchor="middle" font-weight="700">Маршрут</text><text x="455" y="240" text-anchor="middle">дороги · границы</text>
+<path d="M560 222 H640" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="650" y="170" width="180" height="105" rx="18" fill="#eee" stroke="#111"/><text x="740" y="210" text-anchor="middle" font-weight="700">Логистика</text><text x="740" y="240" text-anchor="middle">отели · багаж</text>
+<path d="M845 222 H925" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="935" y="170" width="180" height="105" rx="18" fill="#111"/><text x="1025" y="210" text-anchor="middle" font-weight="700" fill="#fff">Поддержка</text><text x="1025" y="240" text-anchor="middle" fill="#fff">гид · механик · авто</text>
+<path d="M1025 290 V365 H170 V330" fill="none" stroke="#111" stroke-width="4" marker-end="url(#a)"/>
+<rect x="80" y="390" width="1035" height="110" rx="20" fill="#f2f2f2" stroke="#111" stroke-width="2"/>
+<text x="597" y="430" text-anchor="middle" font-size="22" font-weight="700">Один организатор связывает все элементы в одну поездку</text>
+<text x="597" y="468" text-anchor="middle">Именно эта способность является ядром исследовательского сценария.</text>
+</g>
+<text x="70" y="600" font-family="Arial" font-size="16">IndexResearch · 2026</text>
+<defs><marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="3" orient="auto"><path d="M0,0 L0,6 L9,3 z" fill="#111"/></marker></defs>
+</svg>
