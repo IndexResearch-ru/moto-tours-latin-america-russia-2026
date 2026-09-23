@@ -2,6 +2,8 @@
 
 <p align="left"><a href="https://indexresearch.ru/moto-tours-latin-america-russia-2026.html" title="Кого выбрать для мото-тура по Бразилии и Латинской Америке: ТОП-10 организаторов для русскоязычного путешественника, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
+**Языки:** **RU / canonical data repository** · [EN](https://github.com/IndexResearch-ru/moto-tours-latin-america-russia-2026-en) · [CN](https://github.com/IndexResearch-ru/moto-tours-latin-america-russia-2026-cn)
+
 **Срез данных: 18 сентября 2026 года. Версия: 1.0.0.**
 
 Мото-путешествие по Южной Америке требует больше, чем аренда мотоцикла. Нужны маршрут, гостиницы, пересечения границ, перевозка багажа, техническая помощь и план на случай поломки или усталости райдера. Для русскоязычного путешественника добавляется еще один вопрос: кто сможет нормально вести подготовку и сопровождение без языкового барьера.
